@@ -10,4 +10,8 @@ public class Dummyservice {
     System.out.println("so great!");
   }
 
+  public void cannotGetAnyBetterFeature() {
+    System.out.println("let's go have a beer");
+  }
+
 }
