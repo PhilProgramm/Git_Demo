@@ -14,4 +14,8 @@ public class Dummyservice {
     System.out.println("let's go have a beer");
   }
 
+  public void oopsIforgotThisFeature() {
+    System.out.println("I hope nobody notices");
+  }
+
 }
